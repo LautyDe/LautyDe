@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/LautyDe
 
-- 💬 Ask me about **HTML anda CSS**
+- 💬 Ask me about **HTML, CSS and REACT JS**
 
 - 📫 How to reach me **lauty.d.p@gmail.com**
 
